@@ -1,5 +1,3 @@
-Link to the official web site: http://xcode-railscasts-theme.helyx.org
-
 #Description
 
 This Xcode theme is inspired from Simon Wallner 'RailsCast' Xcode Theme. (https://github.com/SimonWallner/RailsCast-Xcode-Theme)
@@ -15,6 +13,8 @@ I find colors relaxing and consistent. Eye Strain is less and it provide a good 
 
 
 #Questions & contacts
+
+Link to the official web site: http://xcode-railscasts-theme.helyx.org
 
 If you have question, you can mail me: firstname(dot)lastname(at)gmail(dot)com ( Yes, you have to replace firstname and lastname ! )
 
