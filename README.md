@@ -1,8 +1,8 @@
 #Description
 
-This Xcode theme is inspired from Simon Wallner 'RailsCast' Xcode Theme. (https://github.com/SimonWallner/RailsCast-Xcode-Theme)
-However, I did some changes to original Railscasts inspired theme based on my personal IntelliJ IDEA settings.
-I find colors relaxing and consistent. Eye Strain is less and it provide a good focus on code.
+This Xcode theme is inspired from Simon Wallner ['RailsCast' Xcode Theme](https://github.com/SimonWallner/RailsCast-Xcode-Theme).
+However, I did some changes to original Railscasts inspired theme based on my personal IntelliJ IDEA color settings:
+Colors were chosen to be relaxing and consistent. In the end, the eye strain is less and the theme provides a good focus on code.
 
 
 #Instructions
